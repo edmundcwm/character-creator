@@ -1,7 +1,6 @@
 .controlPane {
-  padding: 24px;
+  padding: 18px 10px 24px 10px;
   /* Optical centering */
-  padding-top: 18px;
   background-color: white;
   border-radius: 8px;
   /*
